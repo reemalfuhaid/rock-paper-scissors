@@ -1,0 +1,6 @@
+.vs
+x64/
+*.ipch
+*vxproj.user
+Debug/
+Release/
